@@ -37,7 +37,9 @@ An interactive Power BI project analysing:
 - Develop a professional data analytics portfolio.
 
 ## Connect With Me
-- Location: Abuja, Nigeria
-- GitHub: https://github.com/uwayemen86
+- **Email:** [uwayemen86@gmail.com](mailto:uwayemen86@gmail.com)
+- **LinkedIn:** [Connect with me on LinkedIn](https://linkedin.com/in/Iyobhebhe-uwayemen-67864166)
+- **Location:** Abuja, Nigeria
+- **GitHub:** [github.com/uwayemen86](https://github.com/uwayemen86)
 
 Thank you for visiting my profile!
