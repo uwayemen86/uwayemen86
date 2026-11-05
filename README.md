@@ -1,16 +1,43 @@
-## Hi there 👋
+## Hi, I'm Uwayemen Udo-Iheonu
 
-<!--
-**uwayemen86/uwayemen86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst | Power BI | Excel | Power Query
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am developing my skills in Data Analytics, with an interest in transforming data into meaningful insights that support better business decisions.
+
+## Tools & Skills
+
+- Microsoft Power BI
+- Power Query
+- DAX
+- Microsoft Excel
+- Data Cleaning
+- Data Visualisation
+- Financial Reporting and Analysis
+
+## Featured Project
+
+## Financial Performance Dashboard
+
+An interactive Power BI project analysing:
+
+- Revenue and profitability
+- Operating expenses
+- Departmental performance
+- 2024 vs 2025 financial comparisons
+
+## View my Financial Performance Dashboard
+
+## Current Learning Goals
+
+- Improve my Power BI and DAX skills.
+- Strengthen my Excel data analysis skills.
+- Build practical data analytics projects.
+- Develop a professional data analytics portfolio.
+
+## Connect With Me
+- Location: Abuja, Nigeria
+- GitHub: https://github.com/uwayemen86
+
+Thank you for visiting my profile!
