@@ -1,4 +1,4 @@
-![Uwayemen Udo-Iheonu - Data Analyst](github-banner.png)
+![Uwayemen Udo-Iheonu - Data Analyst](UWAYEMEN%20UDO-IHEONU.png)
 
 ## Hi, I'm Uwayemen Udo-Iheonu
 
