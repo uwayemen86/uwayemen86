@@ -1,3 +1,5 @@
+![Uwayemen Udo-Iheonu - Data Analyst](github-banner.png)
+
 ## Hi, I'm Uwayemen Udo-Iheonu
 
 I am an aspiring Data Analyst with practical experience in Microsoft Power BI, Excel, and Power Query.
