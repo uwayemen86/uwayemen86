@@ -15,6 +15,7 @@ I am developing my skills in Data Analytics, with an interest in transforming da
 - Data Cleaning
 - Data Visualisation
 - Financial Reporting and Analysis
+- Dashboard Development
 
 ## Featured Project
 
