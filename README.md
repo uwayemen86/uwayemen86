@@ -35,7 +35,7 @@ A Power BI project analysing financial performance, revenue, profitability, oper
 
 ## Connect With Me
 - **Email:** [uwayemen86@gmail.com](mailto:uwayemen86@gmail.com)
-- **LinkedIn:** [Connect with me on LinkedIn](https://linkedin.com/in/Iyobhebhe-uwayemen-67864166)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/Iyobhebhe-uwayemen-678641/)
 - **Location:** Abuja, Nigeria
 - **GitHub:** [github.com/uwayemen86](https://github.com/uwayemen86)
 
