@@ -1,10 +1,10 @@
 ## Hi, I'm Uwayemen Udo-Iheonu
 
-Aspiring Data Analyst | Power BI | Excel | Power Query
+I am an aspiring Data Analyst with practical experience in Microsoft Power BI, Excel, and Power Query.
 
-Welcome to my GitHub profile!
+I enjoy transforming raw data into meaningful insights through data cleaning, analysis, and interactive visualizations. I am particularly interested in financial data analysis, business performance reporting, and using data to support informed decision-making.
 
-I am developing my skills in Data Analytics, with an interest in transforming data into meaningful insights that support better business decisions.
+I am continuously developing my analytical and technical skills through hands-on projects and practical learning.
 
 ## Tools & Skills
 
