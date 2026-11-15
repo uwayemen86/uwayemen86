@@ -27,6 +27,8 @@ A Power BI project analysing financial performance, revenue, profitability, oper
 
 [View Financial Performance Dashboard](https://github.com/uwayemen86/DSA-Project)
 
+![Financial Performance Dashboard](https://github.com/uwayemen86/DSA-Project/blob/main/Financial_Performance_Dashboard.png)
+
 ## View my Financial Performance Dashboard
 
 ## Current Learning Goals
