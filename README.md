@@ -20,12 +20,9 @@ I am developing my skills in Data Analytics, with an interest in transforming da
 
 ## Financial Performance Dashboard
 
-An interactive Power BI project analysing:
+A Power BI project analysing financial performance, revenue, profitability, operating expenses, and departmental efficiency across 2024 and 2025.
 
-- Revenue and profitability
-- Operating expenses
-- Departmental performance
-- 2024 vs 2025 financial comparisons
+[View Financial Performance Dashboard](https://github.com/uwayemen86/DSA-Project)
 
 ## View my Financial Performance Dashboard
 
